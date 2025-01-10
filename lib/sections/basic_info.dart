@@ -29,6 +29,7 @@ class BasicInfoSection extends StatelessComponent {
         ]),
         h1(classes: 'first-name', [text(basic.firstName)]),
         h1(classes: 'last-name', [text(basic.lastName)]),
+        div(styles: Styles.box(height: 15.px), []),
         span(classes: 'subtitle', [
           i(classes: 'fa-solid fa-play play-icon', []),
           span(classes: 'dynamic-subtitles', [

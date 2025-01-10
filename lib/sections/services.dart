@@ -13,11 +13,7 @@ class ServicesSection extends StatelessComponent {
   Iterable<Component> build(BuildContext context) sync* {
     yield section(classes: 'services-section', [
       span(classes: 'title', [
-        text('What i’ve worked on'),
-      ]),
-      div(styles: Styles.box(height: 15.px), []),
-      span(classes: 'subtitle', [
-        text("Every problem has a solution, and I’m here to deliver it"),
+        text('Every problem has a solution, and I’m here to deliver it'),
       ]),
       div(classes: 'section-body', id: 'services', [
         for (final service in services)

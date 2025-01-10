@@ -6,7 +6,7 @@ void main() {
     'app button default test',
     (ComponentTester tester) async {
       const label = 'Open google';
-      await tester.pumpComponent(
+      tester.pumpComponent(
         AppButton(
           label: label,
           href: 'https://google.com',

@@ -13,11 +13,11 @@ class ContactSection extends StatelessComponent {
   Iterable<Component> build(BuildContext context) sync* {
     yield section(classes: 'contact-section', [
       span(classes: 'title', [
-        text('Get in Touch'),
+        text('Let’s get in touch'),
       ]),
       div(styles: Styles.box(height: 15.px), []),
       span(classes: 'subtitle', [
-        text("Let's build something together :)"),
+        text("To transform your vision into a successful reality"),
       ]),
       div(classes: 'contact-body', id: 'contact', [
         for (final contact in contacts)

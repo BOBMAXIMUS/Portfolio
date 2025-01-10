@@ -18,7 +18,7 @@ class ProjectsSections extends StatelessComponent {
       ]),
       div(styles: Styles.box(height: 15.px), []),
       span(classes: 'subtitle', [
-        text("Here are a few samples of my work :) Due to NDA agreements, I can't showcase more projects here, but I'd be happy to explain them to you in detail."),
+        text("Here are a few examples of my work. There are many other projects I’ve been involved in, and I’d be happy to share more about them in a conversation"),
       ]),
       div(classes: 'section-body-projects', id: 'projects', [
         for (final project in projects)
