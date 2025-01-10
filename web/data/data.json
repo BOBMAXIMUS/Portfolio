@@ -1,0 +1,130 @@
+{
+    "basic": {
+        "firstName": "Carlos",
+        "lastName": "Noguez",
+        "age": 29,
+        "email": "carlosrnoguez@gmail.com",
+        "phone": "+54 351 3488479",
+        "address": "Cordoba, ARG",
+        "photos": [
+            "images/photos/bw.png",
+            "images/photos/colored.png",
+            "images/photos/mobile.png"
+        ],
+        "resume": "https://drive.google.com/file/d/1-QJ4JIBoqjng6sCWX62q9gfDjLCvcG-6/view?usp=sharing"
+    },
+    "socials": [
+        {
+            "icon": "fa-brands fa-linkedin",
+            "url": "https://www.linkedin.com/in/carlos-noguez/"
+        },
+        {
+            "icon": "fa-brands fa-github",
+            "url": "https://github.com/BOBMAXIMUS"
+        },
+        {
+            "icon": "fa-brands fa-instagram",
+            "url": "https://www.instagram.com/carlosrnoguez/"
+        }
+    ],
+    "about": {
+        "heading": "I'm Carlos Noguez, a Flutter Developer, crafting seamless cross-platform experiences for mobile, web, and desktop",
+        "description": "Flutter Developer with 4 years of experience. Passionate about crafting intuitive user interfaces with a strong focus on UI/UX design. I also have 2 years of experience leading Flutter development projects, delivering scalable and efficient solutions. Eager to learn and grow while delivering scalable and efficient solutions.",
+        "tech": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "BloC",
+            "Riverpod",
+            "GetX",
+            "Clean Architecture"
+        ],
+        "works": []
+    },
+    "services": [
+        {
+            "icon": "images/services/app.png",
+            "title": "Mobile Development"
+        },
+        {
+            "icon": "images/services/ui.png",
+            "title": "Web/Desktop Development"
+        },
+        {
+            "icon": "images/services/rapid.png",
+            "title": "Rapid Prototyping"
+        },
+        {
+            "icon": "images/services/blog.png",
+            "title": "Technical Writing"
+        },
+        {
+            "icon": "images/services/open.png",
+            "title": "Open Source - GitHub"
+        }
+    ],
+    "projects": [
+        {
+            "banner": "images/projects/designer.png",
+            "icon": "images/projects/greta_logo.png",
+            "title": "Leistung Greta",
+            "description": "This company is involved with a medical technology traceability system that streamlines the management of healthcare equipment, automating its lifecycle from acquisition to disposal.",
+            "link": "https://leistungargentina.com.ar/es/inicio/"
+        },
+        {
+            "banner": "images/projects/btfbanner.png",
+            "icon": "images/projects/btflogo.png",
+            "title": "Betterfly",
+            "description": "This company is involved with services like telemedicine, gift cards, financial health tools, health insurance, fitness, meditation and mindfulness.",
+            "link": "https://betterfly.com/"
+        },
+        {
+            "banner": "images/projects/fadesigner.png",
+            "icon": "images/projects/falogo.png",
+            "title": "Ultrix Labs LLC",
+            "description": "This company is involved with a software factory, having an end client (HAMA OPCO SPV LIMITED) in the cuisine industry.",
+            "link": "https://thefoodadvocate.com/"
+        },
+        {
+            "banner": "images/projects/geminusbanner.png",
+            "icon": "images/projects/geminuslogo.png",
+            "title": "Geminus",
+            "description": "I developed multiple applications for various end clients, as part of a leading software factory. Due to NDA agreements, I am unable to disclose specific details about the projects",
+            "link": "https://www.linkedin.com/company/geminus-it/"
+        },
+        {
+            "banner": "images/projects/ccdesigner.png",
+            "icon": "images/projects/cclogo.png",
+            "title": "Click & Correct",
+            "description": "This client is a director of a prestigious university, with the goal of creating an app for managing tasks and solutions for both students and professors, with the option to receive a small payment.",
+            "link": "https://clickandcorrect.fr/"
+        },
+        {
+            "banner": "images/projects/unobanner.png",
+            "icon": "images/projects/unologo.png",
+            "title": "UnoExpress",
+            "description": "This company is involved in package traceability, managing shipments from the USA to Honduras via air, sea, or road transportation.",
+            "link": "https://www.unoexpresshn.com/"
+        }
+    ],
+    "contact": [
+        {
+            "icon": "fa-duotone fa-solid fa-house",
+            "title": "Location",
+            "description": "Cordoba, ARG",
+            "action": "https://maps.app.goo.gl/vsvu1jVAfBbXruQg8"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-phone",
+            "title": "Phone",
+            "description": "+54 351 3488479",
+            "action": "https://wa.me/5493513488479"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-envelope",
+            "title": "Email",
+            "description": "carlosrnoguez@gmail.com",
+            "action": "mailto:carlosrnoguez@gmail.com"
+        }
+    ]
+}
